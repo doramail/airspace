@@ -30,7 +30,7 @@
 
 **** + ZRT ALPILLES WHISKY+ECHO ****
 **** + ZSM GLANDASSE ****
-
+**** + Couloirs de passage dans le parc des forêts CHAMPAGNE-BOURGOGNE ****
 
 **** - R 111 ERSTEIN ****
 **** - VV ST DIE ****
@@ -22251,6 +22251,47 @@ DP 45:16:35 N 006:43:39 E
 DP 45:15:58 N 006:43:03 E
 DP 45:16:36 N 006:42:10 E
 DP 45:17:20 N 006:41:09 E
+
+** Couloirs de transit parc national des forêts CHAMPAGNE-BOURGOGNE **
+AC W
+AN Couloir SW parc national des forêts
+AH FL195
+AL 3000FT AMSL
+DP 47:47:45 N 004:50:30 E
+DP 47:47:23 N 004:50:10 E
+DP 47:48:15 N 004:48:40 E
+DP 47:48:33 n 004:49:07 E
+DP 47:47:45 N 004:50:30 E
+
+AC W
+AN Couloir NW parc national des forêts
+AH FL195
+AL 3000FT AMSL
+DP 47:53:30 N 004:49:05 E
+DP 47:52:46 N 004:48:09 E
+DP 47:53:26 N 004:47:05 E
+DP 47:54:09 N 004:47:47 E
+DP 47:53:30 N 004:49:05 E
+
+AC W
+AN Couloir NE parc national des forêts
+AH FL195
+AL 3300FT AMSL
+DP 47:55:52 N 005:01:43 E
+DP 47:54:46 N 005:04:00 E
+DP 47:54:27 N 005:03:33 E
+DP 47:55:37 N 005:01:11 E
+DP 47:55:52 N 005:01:43 E
+
+AC W
+AN Couloir SE parc national des forêts
+AH FL195
+AL 3400FT AMSL
+DP 47:51:40 N 005:05:12 E
+DP 47:51:32 N 005:04:24 E
+DP 47:51:04 N 005:04:26 E
+DP 47:51:18 N 005:05:40 E
+DP 47:51:40 N 005:05:12 E
 
 **************************
 * DIVERS / MISCELLANEOUS *
